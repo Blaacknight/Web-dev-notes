@@ -7,7 +7,8 @@
 - `touch file_name.ext` → Create an empty file.  
 
 ## 2. Opening Files
-- `open file_name.ext` *(Mac)* → Opens file in the default app.  
+- `open file_name.ext` *(Mac)* → Opens file in the default app.
+- `code file_name.ext` *(Windows)*
 - `open -a "Application Name" file_name.ext` → Opens file in a specific app.  
 
 ## 3. Removing Files & Directories
