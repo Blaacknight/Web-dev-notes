@@ -29,7 +29,4 @@ The backend handles the logic and data processing for web applications. It consi
 
 When a user makes a request, the server processes it, retrieves necessary data, executes logic, and sends the appropriate response back to the frontend.
 
-## Next Steps
-- Learn backend technologies: **Node.js, Express, Databases (SQL, MongoDB), Authentication, APIs.**
 
-Stay tuned for the next lesson on backend tools and technologies!
